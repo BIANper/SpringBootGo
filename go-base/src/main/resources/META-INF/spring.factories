@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+icu.yuyurbq.go.base.config.autoconfigure.GoCorsAutoConfiguration
